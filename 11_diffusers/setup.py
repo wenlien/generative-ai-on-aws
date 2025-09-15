@@ -13,7 +13,7 @@ setup(
 #        "wandb",
         "torchvision",
         "inflect==6.0.4",
-        "pydantic==1.10.9",
-        "transformers==4.30.2",
+        "pydantic==1.10.13",
+        "transformers==4.53.0",
     ],
 )
